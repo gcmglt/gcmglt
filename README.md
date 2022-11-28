@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning: **Advanced React and Tailwind CSS**
 
-- 👨‍💻 All of my projects are available at: [https://giacomo-gualtieri.netlify.app/](https://giacomo-gualtieri.netlify.app/)
+- 👨‍💻 All of my projects are available at: **[https://giacomo-gualtieri.netlify.app/](https://giacomo-gualtieri.netlify.app/)**
 
 - 💬 Ask me about: **React, JavaScript, TypeScript**
 
