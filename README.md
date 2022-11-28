@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gcmglt&label=Profile%20views&color=ffa200&style=flat" alt="gcmglt" /> </p>
 
-- 🌱 I’m currently learning **Advanced React and Tailwind CSS**
+- 🌱 I’m currently learning: **Advanced React and Tailwind CSS**
 
-- 👨‍💻 All of my projects are available at [https://giacomo-gualtieri.netlify.app/](https://giacomo-gualtieri.netlify.app/)
+- 👨‍💻 All of my projects are available at: [https://giacomo-gualtieri.netlify.app/](https://giacomo-gualtieri.netlify.app/)
 
-- 💬 Ask me about **JavaScript, TypeScript**
+- 💬 Ask me about: **React, JavaScript, TypeScript**
 
-- 📫 How to reach me **gcmgualtieri@gmail.com**
+- 📫 How to reach me: **gcmgualtieri@gmail.com**
 
-- ⚡ Fun fact **I code just since October 2022!**
+- ⚡ Fun fact: **I code just since October 2022**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
